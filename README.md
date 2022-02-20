@@ -1,9 +1,7 @@
 # Signals-System
- ## Assignment description
+## Description
 
 Sensors are really important part of IOT for measuring the data obtained from the surrounding.In the programming assignment one such sensor is mentioned which records the temperatures of the surrounding and stores the obtained values in the base unit.On observing it was found that the signal in the base unit consisted of noise and blurriness. A code which can denoise and deblur was expected.
-
-## SNS assignment Solution
 
 This repositary consists of code files named as denoised_deblurred,deblurred_denoised,newplots and a report which explains the observations and all the conclusions.The excel file consists data of the signal.
 
